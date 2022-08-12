@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MyToastNotify": {
+      "commandName": "Project",
+      "commandLineArgs": "--title Title --message Message"
+    }
+  }
+}
